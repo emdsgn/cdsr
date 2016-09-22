@@ -250,6 +250,9 @@ mail($my_email,$subject,$message,$headers);
       <h2 class="title">1</h2>
       <p class="bold">CDSR 2017:</p>
       <p class="body">CDSR 2017 will  be held in Toronto, Canada on August 22 - 23, 2017.</p>
+
+       <p class="bold">Call For Papers:</p>
+      <p class="body">For more information about the CDSR'17 Conference, please view the <a href="http://cdsr.net/Toronto_CFP_CDSR.pdf" class="body-link">flyer</a>.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
