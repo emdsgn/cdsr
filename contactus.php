@@ -195,7 +195,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>4<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <p class="subhead">August 21 - 23, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -221,7 +221,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>4<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <p class="subhead">August 21 - 23, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -249,10 +249,21 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">CDSR 2017:</p>
-      <p class="body">CDSR 2017 will  be held in Toronto, Canada on August 22 - 23, 2017.</p>
+      <p class="body">CDSR 2017 will  be held in Toronto, Canada on August 21 - 23, 2017.</p>
 
-       <p class="bold">Call For Papers:</p>
-      <p class="body">For more information about the CDSR'17 Conference, please view the <a href="http://cdsr.net/Toronto_CFP_CDSR.pdf" class="body-link">flyer</a>.</p>
+      <p class="bold">CDSR'17 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the CDSR'17 congress to three days (now August 21 - 23, 2017). The new high-level schedule is as follows:</p>
+
+      <ul>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
+      </ul>
+      
+      <p class="body">Registration for the workshop will be 113 CAD (HST included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+      
     </div>          
     <div>
       <h2 class="title">2</h2>
