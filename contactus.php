@@ -208,7 +208,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+      <p class="body" style="text-align: center!important;">For more information about the CDSR'17 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+      
         </div>
     </div>
 
@@ -234,7 +236,10 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+      <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the CDSR'17 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+
         </div>
         </div> 
       </div>
