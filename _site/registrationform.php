@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for CDSR 2017. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for CDSR 2018. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@cdsr.net. You can find the copyright form here: www.cdsr.net/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -65,9 +65,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for CDSR'17";
+$your_subject = "Your Registration Details for CDSR'18";
 
-$your_headers = "From: CDSR'17 <" . $my_email . ">";
+$your_headers = "From: CDSR'18 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -113,14 +113,14 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<title>CDSR'17 - Registration Form Filled!</title>
+<title>CDSR'18 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="../css/ffhmt.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
@@ -142,7 +142,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>CDSR'17</h1>
+  <h1>CDSR'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -184,8 +184,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>4<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'17)</h1>
-          <p class="subhead">August 21 - 23, 2017 | Toronto, Canada</p>
+          <h1>5<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'18)</h1>
+          <p class="subhead">June 14 - 16, 2018 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -198,9 +198,9 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div><br>
-      <p class="body" style="text-align: center!important;">For more information about the CDSR'17 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
-
+</div><!-- <br>
+      <p class="body" style="text-align: center!important;">For more information about the CDSR'18 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
+<br><br>
         </div>
     </div>
 
@@ -212,8 +212,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>4<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'17)</h1>
-          <p class="subhead">August 21 - 23, 2017 | Toronto, Canada</p>
+          <h1>5<sup>th</sup> International Conference on Control<br>Dynamic Systems and Robotics (CDSR'18)</h1>
+          <p class="subhead">June 14 - 16, 2018 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -226,10 +226,10 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div><br>
+</div><!-- <br>
 
-      <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the CDSR'17 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
-      
+      <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the CDSR'18 Conference, please view the <b><a href="../CDSR17_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
+      <br><br>
         </div>
         </div> 
       </div>
@@ -243,11 +243,11 @@ mail($your_email,$your_subject,$message,$your_headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">CDSR 2017:</p>
-      <p class="body">CDSR 2017 will  be held in Toronto, Canada on August 21 - 23, 2017.</p>
+      <p class="bold">CDSR 2018:</p>
+      <p class="body">CDSR 2018 will  be held in Toronto, Canada on June 14 - 16, 2018.</p>
 
-      <p class="bold">CDSR'17 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the CDSR'17 congress to three days (now August 21 - 23, 2017). The new high-level schedule is as follows:</p>
+      <!-- <p class="bold">CDSR'18 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the CDSR'18 congress to three days (now June 14 - 16, 2018). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Registration</li>
@@ -255,10 +255,23 @@ mail($your_email,$your_subject,$message,$your_headers);
         <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
       
-      <p class="body">Registration for the workshop will be 113 CAD (HST included)<!--  and separate from the main conferences -->. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+      <p class="body">Registration for the workshop will be 113 CAD (HST included). Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
 
       <p class="body">More information to follow; we greatly appreciate your patience!</p>
-      
+
+      <p class="bold">CDSR'18 Symposiums:</p>
+      <p class="body">The Organizing Committee has selected the following fields for specialized and focused symposiums under the umbrella of CDSR'18:</p>
+        <ul>
+          <li>Intelligent Manufacturing and Automation</li>
+          <li>UAV Systems</li>
+          <li>Control theory: Linear, Nonlinear, Learning, and Adaptive</li> 
+          <li>Mechatronics and Robotics</li>
+          <li>Healthcare, Medical, and Assistive Robotics</li>
+          <li>Sensing, Instrumentation, and Measurement</li>
+          <li>3D printing technologies</li>
+          <li>Human-machine and Human-robot Interaction</li>
+        </ul>
+      <p class="body">If you are interested of your article to be part of the above-mentioned symposiums, please inform us when submitting your article. Please visit <a href="../symposium" class="body-link">Symposiums</a> for more information.</p> -->
     </div>          
     <div>
       <h2 class="title">2</h2>
@@ -271,6 +284,7 @@ mail($your_email,$your_subject,$message,$your_headers);
       <p class="body">CDSR attracts a wide range of researchers in the field of control, dynamic systems, and robotics. As a prominent company in the field of control, dynamic systems, and robotics, we would like to offer you an exhibit at CDSR. Please visit <a href="../sponsor" class="body-link">Sponsors</a> for more information.</p>
     </div>
   </div>
+  
 
     </div>
   </div>
@@ -285,7 +299,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@cdsr.net" class="body-link">registration@cdsr.net</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at CDSR'17!</p>
+  <p class="body">We are looking forward to seeing you at CDSR'18!</p>
   </div>
 </div>
 
@@ -306,11 +320,11 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <h2>Upcoming Dates</h2>
 
-<div class="grid events">
+<!-- <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">May. 26, 2017</div>
-    Jul. 14, 2017
+    <div class="past">May. 26, 2018</div>
+    Jul. 14, 2018
   </div>
 </div>
 
@@ -325,8 +339,8 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Jun. 23, 2017</div>
-    Jul. 14, 2017
+    <div class="past">Jun. 23, 2018</div>
+    Jul. 14, 2018
   </div>
 </div>
 
@@ -336,13 +350,13 @@ mail($your_email,$your_subject,$message,$your_headers);
      Final Registration Deadline for Authors
   </div>
 </div>
-</div>
+</div> -->
 
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">May 15, 2017</div> -->
-    Aug. 21 - 23, 2017
+    <!-- <div class="past">May 15, 2018</div> -->
+    Jun. 14 - 16, 2018
   </div>
 </div>
 
@@ -375,55 +389,22 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding CDSR'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding CDSR'18, please fill out the form below:</p>
 
-    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
-  
-  <table border="0" class="contact">
-    <tbody>
-      <tr>
-        <td class="label">Name:</td>
-        <td class="text"><span id="sprytextfield1">
-              <input name="Name" type="text" id="Name" size="40" autocomplete="off">
-
-              <span class="textfieldRequiredMsg">A value is required.</span></span></td>
-        </tr>
-
-        <tr>
-            <td class="label">Email:</td>
-            <td class="text"><span id="sprytextfield2">
-            <input name="Email" type="text" id="Email" size="40" autocomplete="off">
-            <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td>
-          </tr>
-
-          <tr>
-            <td class="label">Confirm Email:</td>
-             <td class="text"><span id="spryconfirm4">
-              <input name="Confirm Email" type="text" id="Confirm Email" size="40" autocomplete="off">
-              <span class="confirmRequiredMsg">A value is required.</span><span class="confirmInvalidMsg">Emails don't match.</span></span></td>
-          </tr>
-
-          <tr>
-            <td class="label">Subject:</td>
-            <td class="text"><span id="sprytextfield3">
-              <input name="Subject" type="text" id="Subject" size="40" autocomplete="off">
-              <span class="textfieldRequiredMsg">A value is required.</span></span></td>
-          </tr>
-
-          <tr>
-            <td valign="top" class="label">Message:</td>
-            <td class="text"><span id="sprytextarea1">
-              <textarea name="Message" id="Message" cols="31" rows="10" autocomplete="off"></textarea>
-              <span class="textareaRequiredMsg">A value is required.</span></span>
-              <center>
-        <input type="submit" name="Submit" value="Submit" accept="image/jpeg">
-        <input type="reset" name="Reset" value="Reset"></center></td>
-          </tr>
-
-        </tbody></table><br>
-
-        
-</form>
+<form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
+  <div class="half left cf">
+    <input style="margin-bottom:0.85em" type="text" name="Name" id="Name" placeholder="Name" required>
+    <input style="margin-bottom:0.85em" type="email" name="Email" id="Email" placeholder="Email address" required>
+    <input type="text" name="Subject" id="Subject" placeholder="Subject" required>
+  </div>
+  <div class="half right cf">
+    <textarea name="Message" type="text" rows="5" name="Message" id="Message" placeholder="Message" required></textarea>
+  </div><br><br>
+  <center class="full right cf"><div class="g-recaptcha" data-sitekey="6LfSSvkSAAAAACwADhM3OhZl40Len8huHR7yzeTP"></div></center>
+  <div class="cf">
+  <center><div class="full right cf"><input type="submit" name="Submit" value="Submit">
+    <input type="reset" name="Reset" value="Reset"></center></div>
+</div></div></form>
     </div>
   </div>
   </div>
