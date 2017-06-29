@@ -246,8 +246,8 @@ mail($your_email,$your_subject,$message,$your_headers);
       <p class="bold">CDSR 2017:</p>
       <p class="body">CDSR 2017 will  be held in Toronto, Canada on August 21 - 23, 2017.</p>
 
-      <p class="bold">CDSR'17 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the CDSR'17 congress to three days (now August 21 - 23, 2017). The new high-level schedule is as follows:</p>
+       <p class="bold">CDSR'17 Workshop</p>
+      <!-- <p class="body">As per popular request, the organizing committee has decided to extend the CDSR'17 congress to three days (now August 21 - 23, 2017). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Registration</li>
@@ -255,9 +255,18 @@ mail($your_email,$your_subject,$message,$your_headers);
         <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
       
-      <p class="body">Registration for the workshop will be 113 CAD (HST included)<!--  and separate from the main conferences -->. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+      <p class="body">Registration for the workshop will be 113 CAD (HST included). Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
 
-      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+      <p class="body">More information to follow; we greatly appreciate your patience!</p> -->
+
+      <p class="bold">CDSR'17 Workshop</p>
+      <p class="body">International ASET Inc. is proud to present <b>Dr. Goldie Nejat</b> and <b> Dr. Mojtaba Ahmadi1</b> as the presenters of our workshop for the 4<sup>th</sup> International Conference on Control, Dynamic Systems, and Robotics (CDSR'17)</p>
+
+      <cenet><p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>The Future of Assistive Robots for Social and Physical Interactions</i></p>
+
+      <p class="body">The workshop will be held in the afternoon of <b>August 22, 2017</b>. All conference attendees are welcome to attend the workshop free of charge. The registration fee for non-conference attendees will be 113 CAD <i>(HST included)</i>. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
+
+      <p class="body">For more information about the workshop and the speakers, please visit:  <a href="../symposium/#workshop" class="body-link" target="_blank">here.</a></p>
       
     </div>          
     <div>
