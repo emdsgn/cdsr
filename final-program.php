@@ -645,43 +645,44 @@ among attendees.</dd>
                       <small>Dr. John McPhee, University of Waterloo, Canada</small></h4>
                   </td>
                 </tr>
-                <tr class="break">
-                  <td class="time"><h6>9:45 AM - 10:05 AM</h6></td>      
-                  <td colspan="3"><h6>Coffee Break</h6></td>
-                </tr>
                 <tr>
-                  <td class="time"><h6>10:05 AM - 12:05 AM</h6></td>      
-                  <td><span class="section-legend"><small>Session</small></span>
-                      <h4><a href="#Linear and Nonlinear Control II">Linear and Nonlinear Control II</a></h4>
-                  </td>
-                </tr>
-                <tr class="break">
-                  <td class="time"><h6>12:05 PM - 12:10 PM</h6></td>      
-                  <td colspan="3"><h6>Group Photo - Please come to the registration desk to take the photo.</h6></td>
-                </tr>
-                <tr class="break">
-                  <td class="time"><h6>12:10 PM - 1:05 PM</h6></td>      
-                  <td colspan="3"><h6>Lunch</h6></td>
-                </tr>
-                <tr>
-                  <td class="time"><h6>1:05 PM - 1:50 PM</h6></td>      
+                  <td class="time"><h6>9:45 AM - 10:20 AM</h6></td>      
                   <td><span class="section-legend"><small>Keynote Lecture</small></span>
                       <h4><a href="#Dr. Tim Barfoot">Can a Robot Navigate Using Vision Alone Forever?</a><br>
                       <small>Dr. Tim Barfoot, University of Toronto, Canada</small></h4>
                   </td>
                 </tr>
+                <tr class="break">
+                  <td class="time"><h6>10:20 AM - 10:40 AM</h6></td>      
+                  <td colspan="3"><h6>Coffee Break</h6></td>
+                </tr>
+                <tr>
+                  <td class="time"><h6>10:40 AM - 12:40 AM</h6></td>      
+                  <td><span class="section-legend"><small>Session</small></span>
+                      <h4><a href="#Linear and Nonlinear Control II">Linear and Nonlinear Control II</a></h4>
+                  </td>
+                </tr>
+                <tr class="break">
+                  <td class="time"><h6>12:40 PM - 12:45 PM</h6></td>      
+                  <td colspan="3"><h6>Group Photo - Please come to the registration desk to take the photo.</h6></td>
+                </tr>
+                <tr class="break">
+                  <td class="time"><h6>12:45 PM - 1:35 PM</h6></td>      
+                  <td colspan="3"><h6>Lunch</h6></td>
+                </tr>
+               
                  <tr>
-                <td class="time"><h6>1:50 PM - 3:20 PM</h6></td>      
+                <td class="time"><h6>1:35 PM - 3:05 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Robotics II">Robotics II</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>3:20 PM - 3:50 PM</h6></td>      
+                  <td class="time"><h6>3:05 PM - 3:35 PM</h6></td>      
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>3:20 PM - 3:50 PM</h6></td>      
+                  <td class="time"><h6>3:05 PM - 3:35 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Poster Session">Poster Session</a></h4>
                   </td>
@@ -710,6 +711,25 @@ among attendees.</dd>
 
 
 
+<!-- Keynote Section Starts-->
+<a id="Dr. Tim Barfoot"></a>
+<div class="section">
+<p class="legend">Keynote Lecture</p>
+<h6 class="info">9:45 AM - 10:20 AM | Session Chair: Dr. Goldie Nejat, University of Toronto, Canada</h6>
+
+<h3 class="title">Can a Robot Navigate Using Vision Alone Forever?<br>
+<small><a href="http://asrl.utias.utoronto.ca/~tdb/" target="_blank">Dr. Tim Barfoot, University of Toronto, Canada</a></small></h3>
+<br>
+
+<dl class="dl-horizontal">
+  <dt>Abstract</dt>
+  <dd>I have no idea. But, for the last several years, we have been working on a vision-only, route-following technique for mobile robots, called Visual Teach & Repeat (VT&R). This approach is successful in practice because it (i) exploits human experience in route definition, (ii) avoids the need to build a global map of the world, and (iii) plays to the strengths of computer vision by keeping the viewpoints the same between teach and repeat. However, to scale up to real-world operations, we need to be able to repeat routes as quickly as possible, in the presence of dynamic obstacles, and of course deal with visual change (lighting, weather, etc.). In this talk, I will describe our latest approach, VT&R 2.0, that leverages past route-driving experience not only to improve visual localization (through Multi-Experience Localization), but also to improve our ability to detect obstacles visually in difficult scenarios (e.g., tall grass), and even track paths more accurately and more quickly over time. I will present field test results using our 1000 kg Grizzly mobile robot in a variety of outdoor, offroad scenarios. There will be lots of videos.</dd>
+</dl>
+</div>
+<div class="top"><a href="#top">top</a></div><!-- End Section Info -->
+
+
+
 
 
 
@@ -717,7 +737,7 @@ among attendees.</dd>
 <a id="Linear and Nonlinear Control II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">10:05 AM - 12:05 PM</h6>
+<h6 class="info">10:40 AM - 12:40 PM</h6>
 <h3 class="title">Linear and Nonlinear Control II<br>
 <small>Session Chair: Dr. John McPhee, University of Waterloo, Canada</small></h3>
 <br>
@@ -738,7 +758,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>10:05 - 10:25</dd>
+          <dd>10:40 - 11:00</dd>
           <dt>Authors</dt>
           <dd>Xin Shen, Jules Thibault</dd>
            <dt>Abstract</dt>
@@ -763,7 +783,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>10:25 - 10:45</dd>
+          <dd>11:00 - 11:20</dd>
           <dt>Authors</dt>
           <dd>Jian-Feng Shi, Steve Ulrich, Stephane Rue</dd>
            <dt>Abstract</dt>
@@ -789,7 +809,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>10:45 - 11:05</dd>
+          <dd>11:20 - 11:40</dd>
           <dt>Authors</dt>
           <dd>M. Amin Changizi, Mehrdad Sarafrazi, Ion Stiharu</dd>
           <dt>Abstract</dt>
@@ -814,7 +834,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:05 - 11:25</dd>
+          <dd>11:40 - 12:00</dd>
           <dt>Authors</dt>
           <dd>Daiki Koike, Kenji Uchiyama</dd>
            <dt>Abstract</dt>
@@ -839,7 +859,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd> 11:25 - 11:45</dd>
+          <dd> 12:00 - 12:20</dd>
           <dt>Authors</dt>
           <dd>Yin-Yen Kuo, Chiao-Hua Cheng, Shao-Kang Hung</dd>
            <dt>Abstract</dt>
@@ -863,7 +883,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:45 - 12:05</dd>
+          <dd>12:20 - 12:40</dd>
           <dt>Authors</dt>
           <dd>Sedat Nazlibilek, Ozlem Gulsum Kilickaya, Süleyman Gökhun Tanyer</dd>
            <dt>Abstract</dt>
@@ -883,21 +903,6 @@ among attendees.</dd>
 
 
 
-<!-- Keynote Section Starts-->
-<a id="Dr. Tim Barfoot"></a>
-<div class="section">
-<p class="legend">Keynote Lecture</p>
-<h6 class="info">1:05 PM - 1:50 PM | Session Chair: Dr. Mojtaba Ahmadi, Carleton University, Canada </h6>
-<h3 class="title">Can a Robot Navigate Using Vision Alone Forever?<br>
-<small><a href="http://asrl.utias.utoronto.ca/~tdb/" target="_blank">Dr. Tim Barfoot, University of Toronto, Canada</a></small></h3>
-<br>
-
-<dl class="dl-horizontal">
-  <dt>Abstract</dt>
-  <dd>I have no idea. But, for the last several years, we have been working on a vision-only, route-following technique for mobile robots, called Visual Teach & Repeat (VT&R). This approach is successful in practice because it (i) exploits human experience in route definition, (ii) avoids the need to build a global map of the world, and (iii) plays to the strengths of computer vision by keeping the viewpoints the same between teach and repeat. However, to scale up to real-world operations, we need to be able to repeat routes as quickly as possible, in the presence of dynamic obstacles, and of course deal with visual change (lighting, weather, etc.). In this talk, I will describe our latest approach, VT&R 2.0, that leverages past route-driving experience not only to improve visual localization (through Multi-Experience Localization), but also to improve our ability to detect obstacles visually in difficult scenarios (e.g., tall grass), and even track paths more accurately and more quickly over time. I will present field test results using our 1000 kg Grizzly mobile robot in a variety of outdoor, offroad scenarios. There will be lots of videos.</dd>
-</dl>
-</div>
-<div class="top"><a href="#top">top</a></div><!-- End Section Info -->
 
 
 
@@ -906,7 +911,7 @@ among attendees.</dd>
 <a id="Robotics II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">1:50 PM - 3:20 PM</h6>
+<h6 class="info">1:35 PM - 3:05 PM</h6>
 <h3 class="title">Robotics II<br>
 <small>Session Chair: Dr. Xin Shen, University of Ottawa, Canada</small></h3>
 <br>
@@ -927,7 +932,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:50 - 2:00</dd>
+          <dd>1:35 - 1:45</dd>
           <dt>Authors</dt>
           <dd>Youngsu Cho, Joono Cheong, Byung-Ju Yi, Wheekuk Kim</dd>
           <!--  <dt>Abstract</dt>
@@ -952,7 +957,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:00 - 2:20</dd>
+          <dd>1:45 - 2:05</dd>
           <dt>Authors</dt>
           <dd>Rachel Drisdelle, Zendai Kashino, Justin Y. Kim, Goldie Nejat, Beno Benhabib</dd>
            <dt>Abstract</dt>
@@ -977,7 +982,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:20 - 2:40</dd>
+          <dd>2:05 - 2:25</dd>
           <dt>Authors</dt>
           <dd>Florentin von Frankenberg, Scott Nokleby</dd>
            <dt>Abstract</dt>
@@ -1001,7 +1006,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:40 - 3:00</dd>
+          <dd>2:25 - 2:45</dd>
           <dt>Authors</dt>
           <dd>Arpit Ainchwar, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1025,7 +1030,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>3:00 - 3:20</dd>
+          <dd>2:45 - 3:05</dd>
           <dt>Authors</dt>
           <dd>Mohit Sain, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1049,7 +1054,7 @@ among attendees.</dd>
 <a id="Poster Session"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">3:20 PM - 3:50 PM</h6>
+<h6 class="info">3:05 PM - 3:35 PM</h6>
 <h3 class="title">Poster Session<br>
 <small>Session Chair: Dr. Dan Necsulescu, University of Ottawa, Canada</small></h3>
 <br>
