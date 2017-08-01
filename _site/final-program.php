@@ -667,22 +667,22 @@ among attendees.</dd>
                   <td colspan="3"><h6>Group Photo - Please come to the registration desk to take the photo.</h6></td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>12:45 PM - 1:35 PM</h6></td>      
+                  <td class="time"><h6>12:45 PM - 1:45 PM</h6></td>      
                   <td colspan="3"><h6>Lunch</h6></td>
                 </tr>
                
                  <tr>
-                <td class="time"><h6>1:35 PM - 3:05 PM</h6></td>      
+                <td class="time"><h6>1:45 PM - 3:15 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Robotics II">Robotics II</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>3:05 PM - 3:35 PM</h6></td>      
+                  <td class="time"><h6>3:15 PM - 3:45 PM</h6></td>      
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>3:05 PM - 3:35 PM</h6></td>      
+                  <td class="time"><h6>3:15 PM - 3:45 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Poster Session">Poster Session</a></h4>
                   </td>
@@ -911,7 +911,7 @@ among attendees.</dd>
 <a id="Robotics II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">1:35 PM - 3:05 PM</h6>
+<h6 class="info">1:45 PM - 3:15 PM</h6>
 <h3 class="title">Robotics II<br>
 <small>Session Chair: Dr. Xin Shen, University of Ottawa, Canada</small></h3>
 <br>
@@ -932,7 +932,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:35 - 1:45</dd>
+          <dd>1:45 - 1:55</dd>
           <dt>Authors</dt>
           <dd>Youngsu Cho, Joono Cheong, Byung-Ju Yi, Wheekuk Kim</dd>
           <!--  <dt>Abstract</dt>
@@ -957,7 +957,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:45 - 2:05</dd>
+          <dd>1:55 - 2:15</dd>
           <dt>Authors</dt>
           <dd>Rachel Drisdelle, Zendai Kashino, Justin Y. Kim, Goldie Nejat, Beno Benhabib</dd>
            <dt>Abstract</dt>
@@ -982,7 +982,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:05 - 2:25</dd>
+          <dd>2:15 - 2:35</dd>
           <dt>Authors</dt>
           <dd>Florentin von Frankenberg, Scott Nokleby</dd>
            <dt>Abstract</dt>
@@ -1006,7 +1006,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:25 - 2:45</dd>
+          <dd>2:35 - 2:55</dd>
           <dt>Authors</dt>
           <dd>Arpit Ainchwar, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1030,7 +1030,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:45 - 3:05</dd>
+          <dd>2:55 - 3:15</dd>
           <dt>Authors</dt>
           <dd>Mohit Sain, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1054,7 +1054,7 @@ among attendees.</dd>
 <a id="Poster Session"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">3:05 PM - 3:35 PM</h6>
+<h6 class="info">3:15 PM - 3:45 PM</h6>
 <h3 class="title">Poster Session<br>
 <small>Session Chair: Dr. Dan Necsulescu, University of Ottawa, Canada</small></h3>
 <br>
