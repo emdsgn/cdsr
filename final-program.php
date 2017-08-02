@@ -255,17 +255,17 @@
                   <td><h6>Lunch</h6></td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>1:05 PM - 3:05 PM</h6></td>      
+                  <td class="time"><h6>1:05 PM - 3:25 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Linear and Nonlinear Control I">Linear and Nonlinear Control I</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>3:05 PM - 3:25 PM</h6></td>      
+                  <td class="time"><h6>3:25 PM - 3:45 PM</h6></td>      
                   <td><h6>Coffee Break</h6></td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>3:25 PM - 5:25 PM</h6></td>      
+                  <td class="time"><h6>3:45 PM - 5:45 PM</h6></td>      
                   <td><span class="section-legend"><small>Workshop</small></span>
                       <h4><a href="#The Future of Assistive Robots for Social and Physical Interactions">The Future of Assistive Robots for Social and Physical Interactions</a><br>
                   <small>Dr. Mojtaba Ahmadi, Carleton University, Canada & 
@@ -421,7 +421,7 @@
 <a id="Linear and Nonlinear Control I"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">1:05 PM - 3:05 PM</h6>
+<h6 class="info">1:05 PM - 3:25 PM</h6>
 <h3 class="title">Linear and Nonlinear Control I <br>
 <small>Session Chair: Dr. Dongbin Lee, Oregon Institute of Technology, USA</small></h3>
 <br>
@@ -584,6 +584,31 @@
 </div> <!-- Individual Paper Ends-->
 
 
+<div class="panel panel-default"><!-- Individual Paper Starts-->
+    <div class="panel-heading" role="tab" id="heading119">
+      <h4 class="panel-title">
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse119" aria-expanded="false" aria-controls="collapse119">A Model-Free Control System Based on the Sliding Mode Control Method with Applications to Multi-Input-Multi-Output Systems<br></a>
+          <small>Agamemnon Crassidis, Rochester Institute of Technology, USA</small>
+      </h4>
+    </div>
+
+    <div id="collapse119" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading119">
+      <div class="panel-body">
+        <dl class="dl-horizontal">
+          <dt>Time</dt>
+          <dd>3:05 - 3:25</dd>
+          <dt>Authors</dt>
+          <dd>Agamemnon Crassidis, Fares El Tin</dd>
+           <dt>Abstract</dt>
+          <dd>In this paper, a model-free sliding mode control system for linear and nonlinear uncertain multi-input multi-output systems is proposed. The developed method does not require a mathematical model of the dynamic system. Instead, the controller relies on state measurements and estimates of the error between previous and current control inputs to stabilize the system. Knowledge of the system’s order, shape of the control input matrix, and control gain bounds, if non-unitary, are the only variables assumed to develop the control law. Lyapunov’s stability criterion is used in the derivation process to ensure closed-loop asymptotic stability. High frequency chattering, often observed with the sliding mode control method, is eliminated using a smoothing boundary layer. Simulations are performed on a nonlinear two mass-spring-damper system and a quadrotor model to examine the performance of the proposed control law.</dd>
+          <dt>Keywords</dt>
+          <dd>Model-Free, Sliding Mode Control, Multi-Input Multi-Output, Quadrotor</dd>
+        </dl>
+      </div>
+    </div>
+</div> <!-- Individual Paper Ends-->
+
+
 </div> <!-- Paper Group ENDS-->
 
 </div>
@@ -598,7 +623,7 @@
 <a id="The Future of Assistive Robots for Social and Physical Interactions"></a>
 <div class="section">
 <p class="legend">Workshop</p>
-<h6 class="info">3:25 PM - 5:25 PM</h6>
+<h6 class="info">3:45 PM - 5:45 PM</h6>
 <h3 class="title">The Future of Assistive Robots for Social and Physical Interactions<br>
 <small><a href="https://carleton.ca/mae/people/mojtaba-ahmadi/" target="_blank">Dr. Mojtaba Ahmadi Carleton University</a> & <a href="https://www.mie.utoronto.ca/mie/faculty/nejat" target="_blank">Dr. Goldie Nejat University of Toronto</a>
 </small></h3>
@@ -1088,8 +1113,7 @@ among attendees.</dd>
 <div class="panel panel-default"><!-- Individual Paper Starts-->
     <div class="panel-heading" role="tab" id="heading111">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse111" aria-expanded="false" aria-controls="collapse111">Rotor Angle Position Control with Tracking Error Constraint for
-Permanent Magnet Synchronous Motors<br></a>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse111" aria-expanded="false" aria-controls="collapse111">Rotor Angle Position Control with Tracking Error Constraint for Permanent Magnet Synchronous Motors<br></a>
           <small>Daehee Won, Korea Institute of Industrial Technology, Korea</small>
       </h4>
     </div>
@@ -1100,10 +1124,7 @@ Permanent Magnet Synchronous Motors<br></a>
           <dt>Authors</dt>
           <dd>Daehee Won, Sangjun Lee, and Eunchol Shin</dd>
            <dt>Abstract</dt>
-          <dd>We reviewed the dynamic modeling of a permanent magnet synchronous motor (PMSM) and proposed a
-rotor angle position control method with an error constraint for the PMSM. To guarantee the tolerance of the position
-tracking error, a backstepping controller is proposed using the barrier Lyapunov function. In addition, closed-loop
-stability of the proposed method is analyzed using the Lyapunov theorem.</dd>
+          <dd>We reviewed the dynamic modeling of a permanent magnet synchronous motor (PMSM) and proposed a rotor angle position control method with an error constraint for the PMSM. To guarantee the tolerance of the position tracking error, a backstepping controller is proposed using the barrier Lyapunov function. In addition, closed-loop stability of the proposed method is analyzed using the Lyapunov theorem.</dd>
           <dt>Keywords</dt>
           <dd>PMSM, Barrier Lyapunov function, Backstepping control, Tracking error constraint</dd>
         </dl>
