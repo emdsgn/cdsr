@@ -386,7 +386,7 @@
 <div class="panel panel-default"><!-- Individual Paper Starts-->
     <div class="panel-heading" role="tab" id="heading107">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse107" aria-expanded="false" aria-controls="collapse107">A Mechanism to Manipulate a Manual Wristed Laparoscopic Instrument by a Robotic Surgery System<br></a>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse107" aria-expanded="false" aria-controls="collapse107">An Adapting Mechanism to Manipulate Manual Wristed Laparoscopic Instruments by a Robotic Surgery System<br></a>
           <small>Farzam Farahmand, Sharif University of Technology, Iran</small>
       </h4>
     </div>
@@ -682,32 +682,32 @@ among attendees.</dd>
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>10:40 AM - 12:40 AM</h6></td>      
+                  <td class="time"><h6>10:40 AM - 1:00 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Linear and Nonlinear Control II">Linear and Nonlinear Control II</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>12:40 PM - 12:45 PM</h6></td>      
+                  <td class="time"><h6>1:00 PM - 1:05 PM</h6></td>      
                   <td colspan="3"><h6>Group Photo - Please come to the registration desk to take the photo.</h6></td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>12:45 PM - 1:45 PM</h6></td>      
+                  <td class="time"><h6>1:05 PM - 1:55 PM</h6></td>      
                   <td colspan="3"><h6>Lunch</h6></td>
                 </tr>
                
                  <tr>
-                <td class="time"><h6>1:45 PM - 3:15 PM</h6></td>      
+                <td class="time"><h6>1:55 PM - 3:25 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Robotics II">Robotics II</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>3:15 PM - 3:45 PM</h6></td>      
+                  <td class="time"><h6>3:25 PM - 4:00 PM</h6></td>      
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>3:15 PM - 3:45 PM</h6></td>      
+                  <td class="time"><h6>3:25 PM - 4:00 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Poster Session">Poster Session</a></h4>
                   </td>
@@ -762,7 +762,7 @@ among attendees.</dd>
 <a id="Linear and Nonlinear Control II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">10:40 AM - 12:40 PM</h6>
+<h6 class="info">10:40 AM - 1:00 PM</h6>
 <h3 class="title">Linear and Nonlinear Control II<br>
 <small>Session Chair: Dr. John McPhee, University of Waterloo, Canada</small></h3>
 <br>
@@ -921,6 +921,33 @@ among attendees.</dd>
 </div> <!-- Individual Paper Ends-->
 
 
+
+<div class="panel panel-default"><!-- Individual Paper Starts-->
+    <div class="panel-heading" role="tab" id="heading137">
+      <h4 class="panel-title">
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse137" aria-expanded="false" aria-controls="collapse137">Modelling the Translational Dynamics of the Atlas Motion Platform<br></a>
+          <small>Kaitlin Leigh, Carleton University, Canada</small>
+      </h4>
+    </div>
+
+    <div id="collapse137" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading137">
+      <div class="panel-body">
+        <dl class="dl-horizontal">
+          <dt>Time</dt>
+          <dd>12:40 - 1:00</dd>
+          <dt>Authors</dt>
+          <dd>Kaitlin Leigh, Michael Rappoport, Jerome Thevenot, Robert Langlois</dd>
+          <dt>Abstract</dt>
+          <dd>The novel Atlas motion platform is designed to prescribe in six degrees of freedom the motion of a spherical simulator cockpit with the unusual capability of providing kinematically-uncoupled translational and rotational motion, unbounded rotational motion, and a fully-dexterous workspace. In support of the design and operation of the Atlas simulator, a translational dynamic model of the system has been developed. It includes the prescribed motion of the interface between the translational and rotational stages, translational motion of the spherical cockpit, and translational motion of the upper ‘halo’ support structure. Contact points between the spherical cockpit and the constraint/actuation system were modelled using directed elements consisting of either constant-force elements or spring/damper elements. In the case of the spring/damper elements, stiffness and damping parameters were obtained by a combination of finite element analysis of structural elements and experimental characterization of viscoelastic elements along the interfacing load paths. The dynamic model is suitable for evaluating internal forces and relative motions within the simulator resulting from translation motions; and forms the basis for extension to include rotational dynamics of the simulator system.</dd>
+          <dt>Keywords</dt>
+          <dd>Atlas motion platform, dynamic modelling, effective stiffness, finite element analysis, material characterization.</dd>
+        </dl>
+      </div>
+    </div>
+</div> <!-- Individual Paper Ends-->
+
+
+
 </div> <!-- Paper Group ENDS-->
 
 </div>
@@ -936,7 +963,7 @@ among attendees.</dd>
 <a id="Robotics II"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">1:45 PM - 3:15 PM</h6>
+<h6 class="info">1:55 PM - 3:25 PM</h6>
 <h3 class="title">Robotics II<br>
 <small>Session Chair: Dr. Xin Shen, University of Ottawa, Canada</small></h3>
 <br>
@@ -957,7 +984,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:45 - 1:55</dd>
+          <dd>1:55 - 2:05</dd>
           <dt>Authors</dt>
           <dd>Youngsu Cho, Joono Cheong, Byung-Ju Yi, Wheekuk Kim</dd>
           <!--  <dt>Abstract</dt>
@@ -982,7 +1009,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:55 - 2:15</dd>
+          <dd>2:05 - 2:25</dd>
           <dt>Authors</dt>
           <dd>Rachel Drisdelle, Zendai Kashino, Justin Y. Kim, Goldie Nejat, Beno Benhabib</dd>
            <dt>Abstract</dt>
@@ -1007,7 +1034,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:15 - 2:35</dd>
+          <dd>2:25 - 2:45</dd>
           <dt>Authors</dt>
           <dd>Florentin von Frankenberg, Scott Nokleby</dd>
            <dt>Abstract</dt>
@@ -1031,7 +1058,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:35 - 2:55</dd>
+          <dd>2:45 - 3:05</dd>
           <dt>Authors</dt>
           <dd>Arpit Ainchwar, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1055,7 +1082,7 @@ among attendees.</dd>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:55 - 3:15</dd>
+          <dd>3:05 - 3:25</dd>
           <dt>Authors</dt>
           <dd>Mohit Sain, Dan Necsulescu</dd>
            <dt>Abstract</dt>
@@ -1079,7 +1106,7 @@ among attendees.</dd>
 <a id="Poster Session"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">3:15 PM - 3:45 PM</h6>
+<h6 class="info">3:25 PM - 4:00 PM</h6>
 <h3 class="title">Poster Session<br>
 <small>Session Chair: Dr. Dan Necsulescu, University of Ottawa, Canada</small></h3>
 <br>
