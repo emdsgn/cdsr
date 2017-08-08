@@ -965,7 +965,7 @@ among attendees.</dd>
 <p class="legend">Session</p>
 <h6 class="info">1:55 PM - 3:25 PM</h6>
 <h3 class="title">Robotics II<br>
-<small>Session Chair: Dr. Xin Shen, University of Ottawa, Canada</small></h3>
+<small>Session Chair: Dr. Jules Thibault, University of Ottawa, Canada</small></h3>
 <br>
 
 
