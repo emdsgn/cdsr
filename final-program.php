@@ -86,7 +86,7 @@
 }
 .jumbotron{
    background-color:#7F2123;
-   background-image: url("../img/toronto.png");
+   background-image: url("../img/Toronto.png");
    color: #fff;
    background-position: 50% 60%;
    background-repeat: no-repeat;
@@ -307,7 +307,7 @@
 <p class="legend">Keynote Lecture</p>
 <h6 class="info">10:00 AM - 10:45 AM | Session Chair: Dr. Mojtaba Ahmadi, Carleton University</h6>
 <h3 class="title">Formation Control of Autonomous Vehicles<br>
-<small><a href="http://www.flight.utias.utoronto.ca/fsc/index.php?id=204" target="_blank">Dr. Hugh H.T. Liu, University of Toronto, Canada
+<small><a href="http://www.flight.utias.uToronto.ca/fsc/index.php?id=204" target="_blank">Dr. Hugh H.T. Liu, University of Toronto, Canada
 </a></small></h3>
 <br>
 
@@ -631,14 +631,14 @@
 <p class="legend">Workshop</p>
 <h6 class="info">3:45 PM - 5:45 PM</h6>
 <h3 class="title">The Future of Assistive Robots for Social and Physical Interactions<br>
-<small><a href="https://carleton.ca/mae/people/mojtaba-ahmadi/" target="_blank">Dr. Mojtaba Ahmadi Carleton University</a> & <a href="https://www.mie.utoronto.ca/mie/faculty/nejat" target="_blank">Dr. Goldie Nejat University of Toronto</a>
+<small><a href="https://carleton.ca/mae/people/mojtaba-ahmadi/" target="_blank">Dr. Mojtaba Ahmadi Carleton University</a> & <a href="https://www.mie.uToronto.ca/mie/faculty/nejat" target="_blank">Dr. Goldie Nejat University of Toronto</a>
 </small></h3>
 <br>
 
 <dl class="dl-horizontal">
   <dt>Abstract</dt>
   <dd>Assistive robots can be used as physical, social and cognitive aids to promote independence and improve quality of life. This workshop will introduce the state of the art in Assistive Robotics from the research, design, application, and commercialization perspectives. <br>
-  <strong>Dr. Goldie Nejat</strong> will present some of her team's recent research efforts in developing intelligent socially assistive robots for the elderly and their integration into health monitoring, and social and cognitive interventions. The ability of such robots to autonomously provide cognitive and social stimuli, guidance, and support, and serve as general assistance to individuals as well as groups of users will be discussed. Studies conducted during human-robot interaction scenarios with the autonomous human-like assistive robots Brian, Tangy and Casper will also be discussed. This talk will also include demonstrations of the robots developed by the ASBLab (asblab.mie.utoronto.ca) research team at the University of Toronto. <br>
+  <strong>Dr. Goldie Nejat</strong> will present some of her team's recent research efforts in developing intelligent socially assistive robots for the elderly and their integration into health monitoring, and social and cognitive interventions. The ability of such robots to autonomously provide cognitive and social stimuli, guidance, and support, and serve as general assistance to individuals as well as groups of users will be discussed. Studies conducted during human-robot interaction scenarios with the autonomous human-like assistive robots Brian, Tangy and Casper will also be discussed. This talk will also include demonstrations of the robots developed by the ASBLab (asblab.mie.uToronto.ca) research team at the University of Toronto. <br>
   <strong>Dr. Ahmadi</strong> will talk about the design challenges imposed on medical robotics, state of the physically assistive robotics. A number of key medical and healthcare issues, and how assistive devices can be helpful, will be reviewed. Dr. Ahmadi will highlight the ongoing research projects at the Advanced Biomechatronics and Locomotion Laboratory (ABL) at Carleton University, including general robotic systems development, a virtual gait rehabilitation robot (ViGRR robot), an intelligent robotic mobility system (Solowalk now commercilaized by GaitTronics), and current research on potential of assistive devices in improving human balance capabilities and the role of assistive devices with biofeedback. Finally, the challenges on knowledge mobilization and commercialization in this area will be discussed.</dd>
   <dt>Schedule</dt>
   <dd>45 minutes for each of the above presentations including Q&A.<br>
@@ -749,7 +749,7 @@ among attendees.</dd>
 <h6 class="info">9:45 AM - 10:20 AM | Session Chair: Dr. Goldie Nejat, University of Toronto, Canada</h6>
 
 <h3 class="title">Can a Robot Navigate Using Vision Alone Forever?<br>
-<small><a href="http://asrl.utias.utoronto.ca/~tdb/" target="_blank">Dr. Tim Barfoot, University of Toronto, Canada</a></small></h3>
+<small><a href="http://asrl.utias.uToronto.ca/~tdb/" target="_blank">Dr. Tim Barfoot, University of Toronto, Canada</a></small></h3>
 <br>
 
 <dl class="dl-horizontal">
