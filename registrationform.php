@@ -45,6 +45,8 @@ Thank you for registering for CDSR 2018. If you have requested any official lett
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@cdsr.net. You can find the copyright form here: https://cdsr.net/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
+To reserve a room at a discounted price, please make your reservation by using this link: http://aset.americananiagara.com
+
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@cdsr.net mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
